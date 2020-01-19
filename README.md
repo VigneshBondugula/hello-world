@@ -1,3 +1,3 @@
-# hello-world
+# Hello-World
 Starting my repositories
-Hello all this is Vignesh Bondugula.Having a great start on github.
+Hello all this is Vignesh Bondugula.Having a great start on Github.
